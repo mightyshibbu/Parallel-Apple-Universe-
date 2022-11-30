@@ -12,7 +12,7 @@ function App() {
 
 
 
-<Navbar bg="light" variant="light">
+<Navbar bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="#home">
             <img
